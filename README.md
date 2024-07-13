@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rana Bilal Akbar</h1>
 <h3 align="center">Exploring the Frontier of Artificial Intelligence and Machine Learning: A Computer Science Student's Journey</h3>
 
-<img align= "right" alt="coding" width="400" src="https://drive.google.com/file/d/1Kvk9APTOFVjYeOqfi9eGce6kiu6CZ8OQ/view?usp=sharing">
-
 - 🔭 I’m currently working on **Youtube Video Summarizer**
 
 - 🌱 I’m currently learning **Machine Learning, Generative AI, AI development**
