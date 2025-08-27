@@ -50,6 +50,5 @@
 <p align="left">
 <a href="https://linkedin.com/in/rana-bilal-akbar-1a66a5196" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:i221094@nu.edu.pk"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://instagram.com/ranabilal_akbar" target="blank"><img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://github.com/bilalrana8718" target="blank"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
